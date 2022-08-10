@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	border: 0px solid red;
+    background: white;
+
+}
+/*leayut*/
+#areacabealho{
+	background-color:#DAA520 ;
+	padding: 15px;
+	text-align: center;
+
+}
+#arealogo, #area-menu{
+	padding: 10px;
+}
+#areaprincipal{
+
+	width: 920px;
+	margin: 0 auto;
+}
+#postagens{
+	width: 600px;
+	
+	float: left;
+}
+#arealateral{
+	width: 240px;
+	
+	float: right;
+
+}
+#rodape{
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	background: #ccc;
+
+}
+a{
+	text-decoration: none;
+}
+a:link, a:visited{
+	font-size: 20px;
+	padding: 10px 9px;
+	color: white;
+}
+a:hover{
+	color: black;
+	background: white;
+}
